@@ -1,0 +1,7 @@
+jax[cpu]>=0.3.4
+lifelines>=0.27.0
+matplotlib>=3.5
+notebook>=6.4
+numpy>=1.21
+pandas>=1.4
+scipy>=1.8
